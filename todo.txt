@@ -1,0 +1,5 @@
+# TODO
+
+- Moving cursor  down when col_offset > 0, when the line your going to is less, it dosent updaet col_offset
+- Backspace at end of line skips last char???
+- File Explorer (With a lot of info and sorting options)
